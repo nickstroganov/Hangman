@@ -1,7 +1,7 @@
 import random
 
 # List of words to choose from
-words = ['apple', 'banana', 'orange', 'pear', 'grape']
+words = ['apple', 'banana', 'orange', 'pear', 'grape', 'mango']
 
 # Choose a random word from the list
 word = random.choice(words)
